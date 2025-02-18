@@ -1,0 +1,6 @@
+./__pycache__/*
+./dataset/*
+
+/dataset/*
+__pycache__/util.cpython-310.pyc
+sample.mp4
