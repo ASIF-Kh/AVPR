@@ -64,7 +64,7 @@ pip install ultralytics opencv-python numpy easyocr tkinter
 2. Ensure you have the YOLO models (`yolov8n.pt` and `license_plate_detector.pt`) in the `models/` directory.
 3. Run the script:
    ```sh
-   python script.py
+   python app.py
    ```
 4. A GUI will appear with options to select an image or video.
 5. Click "Process Image" or "Process Video" and select a file.
